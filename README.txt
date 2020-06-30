@@ -5,7 +5,7 @@ Intel? RealSense? SDK based real-time face tracking and animation
 The face animation sample uses the 3D face tracking module to enable virtual character to simulate user facial expression in real time. 
 
 For detailed information on this sample, please visit:
-https://software.intel.com/en-us/articles/intel-realsense-sdk-based-realtime-face-tracking-and-animation
+https://software.intel.com/content/www/us/en/develop/articles/intel-realsense-sdk-based-real-time-face-tracking-and-animation.html
 
 
 [Requirements]
